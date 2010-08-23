@@ -1,0 +1,10 @@
+﻿## Interface: 30200
+## Title: Broker: Time To Die
+## Notes: LDB port of TimeToDie, showing estimated target life expectancy in an LDB object
+## SavedVariables: TIMETODIE_UNIT
+
+LibStub.lua
+CallbackHandler-1.0.xml
+LibDataBroker-1.1.lua
+
+Broker_TimeToDie.lua

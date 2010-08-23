@@ -1,0 +1,7 @@
+package-as: Broker_TimeToDie
+
+tools-used:
+	- libstub
+	- callbackhandler
+	- libdatabroker-1-1
+
