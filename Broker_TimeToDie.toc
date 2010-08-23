@@ -1,4 +1,4 @@
-﻿## Interface: 30200
+﻿## Interface: 30300
 ## Title: Broker: Time To Die
 ## Notes: LDB port of TimeToDie, showing estimated target life expectancy in an LDB object
 ## SavedVariables: TIMETODIE_UNIT
